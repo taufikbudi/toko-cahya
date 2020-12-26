@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update_order" value="name:id_order;datatype:int,name:id_user;datatype:int,name:id_barang;datatype:int,name:jumlah_order;datatype:int,name:tanggal_order;datatype:date,name:jam_order;datatype:time,name:status_order;datatype:int" />
+</info>

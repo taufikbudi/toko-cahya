@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_index" value="name:id_halaman;datatype:int,name:judul_halaman;datatype:string,name:isi_halaman;datatype:blob" />
+</info>

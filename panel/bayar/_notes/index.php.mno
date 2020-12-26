@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_idnex" value="name:id_bayar;datatype:int,name:id_order;datatype:int,name:judul;datatype:string,name:userName;datatype:string,name:foto_transfer;datatype:string,name:keterangan;datatype:blob,name:tanggal_bayar;datatype:date,name:status;datatype:int" />
+</info>

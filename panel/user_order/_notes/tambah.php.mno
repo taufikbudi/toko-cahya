@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_order" value="name:id_user;datatype:int,name:user;datatype:string,name:pass;datatype:string,name:nama_lengkap;datatype:string,name:foto_profil;datatype:string,name:alamat;datatype:blob,name:email;datatype:string,name:no_hp;datatype:int,name:tanggal_daftar;datatype:date,name:id_barang;datatype:int,name:id_kategori;datatype:int,name:nama_barang;datatype:string,name:foto_barang;datatype:string,name:deskripsi_barang;datatype:blob,name:stok;datatype:int,name:tanggal_input;datatype:date,name:harga_barang;datatype:string,name:id_kategori;datatype:int,name:nama_kategori;datatype:string,name:foto_kategori;datatype:string" />
+	<infoitem key="UD_update_jumlah" value="name:id_barang;datatype:int,name:stok;datatype:int" />
+	<infoitem key="UD_tampil_barang" value="name:id_barang;datatype:int,name:id_kategori;datatype:int,name:nama_barang;datatype:string,name:foto_barang;datatype:string,name:deskripsi_barang;datatype:blob,name:stok;datatype:int,name:tanggal_input;datatype:date,name:harga_barang;datatype:string" />
+	<infoitem key="UD_user" value="name:id_user;datatype:int,name:user;datatype:string,name:pass;datatype:string,name:nama_lengkap;datatype:string,name:foto_profil;datatype:string,name:alamat;datatype:blob,name:email;datatype:string,name:no_hp;datatype:int,name:tanggal_daftar;datatype:date" />
+	<infoitem key="UD_ambil_id" value="name:id_barang;datatype:int,name:id_kategori;datatype:int,name:nama_barang;datatype:string,name:foto_barang;datatype:string,name:deskripsi_barang;datatype:blob,name:stok;datatype:int,name:tanggal_input;datatype:date,name:harga_barang;datatype:string" />
+</info>

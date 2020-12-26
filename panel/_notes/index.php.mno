@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_income" value="name:sum( total_bayar);datatype:real" />
+	<infoitem key="UD_outcome" value="name:sum( user_order.total_bayar);datatype:real" />
+</info>
